@@ -1,0 +1,3 @@
+# carelessonset_plots
+
+Supplementary material of the working paper ["When Respondents Don't Care Anymore: Identifying the Onset of Careless Responding"](https://arxiv.org/abs/2303.07167) by Max Welz and Andreas Alfons. This repository contains visualizations of the autoencoder reconstruction errors as well as LongstringPattern sequence for each respondent in the data of [Johnson (2005)](https://doi.org/10.1016/j.jrp.2004.09.009) in which CODERS flags a changepoint (vertical blue line) at a given significance level. In the `plots` folder, we provide such visualizations for three significance levels `alpha`, namely 1%, 0.5%, and 0.1%. For details, we refer to the empirical application section of the working paper.
